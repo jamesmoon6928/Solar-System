@@ -5,11 +5,11 @@ Simple solar system simulation tool for students starting to learn about astrono
  When discussing about topics for team project in Visualization course, solar system simulator seemed interesting to our team. For me, I 
 
 # Features
-Scene1 - Rotation of planets (Formula not applied yet)
-Scene2 - Overview of physical data of the planets. User can compare this data with each other. Used a continuous color gradient to encode the rotation period and mass. (Color lerp) Each planet's gravitational force is represented with the length of 3D arrows. (Scale/Length lerp)
+##Scene1 - Rotation of planets (Formula not applied yet)
+##Scene2 - Overview of physical data of the planets. User can compare this data with each other. Used a continuous color gradient to encode the rotation period and mass. (Color lerp) Each planet's gravitational force is represented with the length of 3D arrows. (Scale/Length lerp)
 * Sun is excluded when lerping because of its enormous data values.
-Scene3 - Gravity simulation. Comparison of mass and radius of planets.
-Scene4 - Relationship between mass, radius, and gravity.
+##Scene3 - Gravity simulation. Comparison of mass and radius of planets.
+##Scene4 - Relationship between mass, radius, and gravity.
 
 # Load/Execute
 The editor version is 2021.3.4f1
